@@ -1,0 +1,65 @@
+{
+    "name": "Saagie",
+    "description": "Find out the ready to use Big Data platform Saagie that supports your business through data lifecycle from extraction to analysis",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/saagie-cloud.png",
+    "tags": [
+        "api not found",
+        "data",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/saagie\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Saagie",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/saagie-cloud.png",
+            "humanURL": "https:\/\/www.saagie.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/saagie-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/saagie-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.saagie.com\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/saagie"
+        },
+        {
+            "type": "Email",
+            "url": "contact@saagie.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@saagie.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/saagie"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/saagie_io"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.saagie.com"
+        }
+    ]
+}
